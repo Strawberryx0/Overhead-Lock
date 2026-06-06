@@ -1,7 +1,5 @@
 # 1 Tick Flick
-Visual tick bar and combo counter for 1-tick prayer flicking with the quick prayer orb
-
-<img width=600px src="example-image.webp">
+Visual tick bar and combo counter for 1-tick prayer flicking with the quick prayer or prayer book.
 
 ## What is 1-tick flicking?
 1-tick flicking is a method of prayer flicking that involves deactivating and reactivating your prayers on every single game tick.  
