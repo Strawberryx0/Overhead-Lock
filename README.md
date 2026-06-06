@@ -1,13 +1,1 @@
-package com.onetickflick;
-
-import net.runelite.client.RuneLite;
-import net.runelite.client.externalplugins.ExternalPluginManager;
-
-public class OneTickFlickPluginTest
-{
-	public static void main(String[] args) throws Exception
-	{
-		ExternalPluginManager.loadBuiltin(OneTickFlickPlugin.class);
-		RuneLite.main(args);
-	}
-}
+This is a fork of SuperNerdEric's 1 tick flick plugin, including a RuneLite style overhead bar.
